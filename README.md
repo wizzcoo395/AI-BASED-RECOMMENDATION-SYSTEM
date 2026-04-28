@@ -149,3 +149,7 @@ Item ID: 104 | Rating: 4.5
 This project helped in understanding the basic idea behind recommendation systems. Even with a small dataset, it shows how user preferences can be used to generate meaningful suggestions. It also gives a good starting point for building more advanced systems.
 
 ---
+# OUTPUT
+
+<img width="1098" height="641" alt="Image" src="https://github.com/user-attachments/assets/6b25e9e3-fae9-4566-bdcc-a139e1bf71ba" />
+<img width="1132" height="577" alt="Image" src="https://github.com/user-attachments/assets/3ea79235-d495-4633-8656-646f9008e8dd" />
